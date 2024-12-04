@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ATS-20+ Arduino code
 - 💞️ I’m looking to collaborate on ... (not sure yet)
 - 📫 How to reach me: jrockel@outlook.com
-- 😄 Pronouns: I, me, you, we
+- 😄 Pronouns: he, him
 - ⚡ Fun fact: Born in Italy to US parents
 
 <!---
